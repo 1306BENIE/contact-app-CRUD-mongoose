@@ -1,0 +1,12 @@
+GESTION DES CONTACTS AVEC MONGODB,EXPRESS ET MONGOOSE
+
+Créer une api Rest pour gérer une liste de contact en utilisant MongoDB, express,
+ et mongoose, l'application doit permettre de d'ajouter, de rechercher, de mettre à 
+ jour et de supprimer des contacts 
+
+les identifiants que doivent avoir nos models
+fulname,
+email, 
+phoneNumber
+birthDate
+ 
